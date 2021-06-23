@@ -1,0 +1,13 @@
+.gradiente {
+    background-image: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}
+
+.fundo {
+    background-color: #e6e9f0;
+    
+}
+
+.semmarge {
+    margin: 0 !important; 
+}
+
