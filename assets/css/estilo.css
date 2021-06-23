@@ -11,3 +11,19 @@
     margin: 0 !important; 
 }
 
+
+.figure img:hover {
+    -moz-transform: scale(0.1);
+    -webkit-transform: scale(0.1);
+    transform: scale(1.1);
+}
+
+.figure img {
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+.teste {
+    text-align: justify;
+}
+
